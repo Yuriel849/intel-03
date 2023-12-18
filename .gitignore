@@ -28,16 +28,10 @@ videos
 saved
 smart_factory_src
 
-<<<<<<< Updated upstream:.gitignore
+
 jpg
 png
 mp3
-=======
-<<<<<<< HEAD:class01/homework/JiminKim/.gitignore
+
 .h5
-=======
-jpg
-png
-mp3
->>>>>>> Intel3_PYG:.gitignore
->>>>>>> Stashed changes:class01/homework/JiminKim/.gitignore
+
